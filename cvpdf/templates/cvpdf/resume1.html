@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Professional CV</title>
+</head>
+<body>
+
+<!-- A4 Container -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="100%" align="center">
+            <!-- Content Container -->
+            <table width="95%" border="0" cellspacing="0" cellpadding="0" style="max-width:800px;">
+                
+                <!-- Header Section -->
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+                            <tr>
+                                <td bgcolor="#1a2c4b" style="color:white; padding:20px;">
+                                    <h1>{{user_profile.name}}</h1>
+                                    <h2>{{user_profile.prof_tag}}</h2>
+                                    <p>
+                                        {{user_profile.summary}}
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                
+                <!-- Main Content -->
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <!-- Left Column -->
+                                <td width="35%" valign="top" style="padding:10px; border-right:1px solid #e0e0e0;">
+                                    
+                                    <!-- Contact -->
+                                    <h3>Contact</h3>
+                                    <p>
+                                        <a href="tel:{{user_profile.phone}}">+{{user_profile.phone}}</a><br>
+                                        <a href="mailto:{{user_profile.email}}">{{user_profile.email}}</a><br>
+                                        {{user_profile.address}}
+                                    </p>
+                                    
+                                    <!-- Skills -->
+                                    <h3>Skills</h3>
+                                    <ul>
+                                        <li>{{user_profile.skills|linebreaks}}</li>
+                                    </ul>
+                                    
+                                    <!-- Hobbies -->
+                                    <h3>Hobbies</h3>
+                                    <ul>
+                                        <li>{{user_profile.hobbies|linebreaks}}</li>
+                                    </ul>
+
+                                    <!-- Hobbies -->
+                                    <h3>Languages</h3>
+                                    <ul>
+                                        <li>{{user_profile.lang|linebreaks}}</li>
+                                    </ul>
+                                </td>
+                                
+                                <!-- Right Column -->
+                                <td width="65%" valign="top" style="padding:10px;">
+                                    
+                                    <!-- Education -->
+                                    <h3>Education</h3>
+                                    <p>
+                                        <strong>School</strong><br>
+                                        {{user_profile.school|linebreaks}}
+                                        
+                                    </p>
+                                    
+                                    <p>
+                                        <strong>University</strong><br>
+                                        {{user_profile.university|linebreaks}}
+                                    </p>
+                                    
+                                    <!-- Work Experience -->
+                                    <h3>Work Experience</h3>
+                                    <p>
+                                        <strong>Present</strong><br>
+                                        {{user_profile.previous_work|linebreaks}}
+                                    </p>
+                                    
+                                    <p>
+                                        <strong>Past</strong><br>
+                                        {{user_profile.previous_work_1|linebreaks}}
+                                    </p>
+                                    <!--
+                                    <p>
+                                        <strong>Jun 2015 - Dec 2017</strong><br>
+                                        <strong>Junior Athletics Coach</strong><br>
+                                        Port Harcourt Sports Club<br>
+                                        Developed training programs for young athletes aged 12-18 years.
+                                    </p>-->
+                                    
+                                    <!-- Awards -->
+                                    <!--
+                                    <h3>Awards & Achievements</h3>
+                                    <p>
+                                        <strong>Jan 2014</strong><br>
+                                        <strong>High Jump - First Position</strong><br>
+                                        Champion in high jump at NUGA Games with record jump of 2.25m
+                                    </p>
+                                    
+                                    <p>
+                                        <strong>May 2016</strong><br>
+                                        <strong>Sky Diving - Second Position</strong><br>
+                                        Overall second best in fall Skydiving championship
+                                    </p>
+                                    
+                                    <p>
+                                        <strong>Aug 2019</strong><br>
+                                        <strong>Coach of the Year</strong><br>
+                                        Nigerian Sports Association recognition for excellence
+                                    </p>-->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                
+                <!-- Footer -->
+                <!--
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+                            <tr>
+                                <td align="center" style="border-top:1px solid #e0e0e0; padding:10px; font-size:12px;">
+                                    Designed by MahadREX
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>-->
+            </table>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
