@@ -1,4 +1,4 @@
-# Django-Projects\
+# Django-Projects
 Check out the branches of this repository.\
 Each branch represents each project.\
 Branch 6 link: https://mahadipros.com/ \
