@@ -1,4 +1,4 @@
-# CV Generator with Django \
+# CV Generator with Django 
 In this project, the user can entry all kinds of information and afterthat a CV will be generated for him. It can look like a static project as the designs are not that good. I have hard coded every thing in this project. It was done to go through the basic things in a proper way. 
 
 -Install the requirements.txt file. \
