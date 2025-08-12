@@ -38,7 +38,7 @@ In this project, the user can entry all kinds of information and afterthat a CV 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.** 
 ### Live Link: https://cvgene-latest.onrender.com/
 
-# Project 4 : Basic ChatBot with ChatterBot with Django \
+# Project 4 : Basic ChatBot with ChatterBot with Django 
 In this project, I have tried to initiate a chatbot using Chatterbot and Chatterbot-Corpus library. It is not an advanced chatbot. Because the library is not that enriched.
 
 -Install the requirements.txt file. \
