@@ -8,5 +8,5 @@ The projects aim to keep track all kinds of personal expense. User can input all
 -The whole project is well commented which makes the project easy to understand. \
 -I have tried to use all the basic Django instruments here. 
 
-**The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.**
+**The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.** \
 Live Link: ttps://expense-tracker-latest-bsea.onrender.com/
