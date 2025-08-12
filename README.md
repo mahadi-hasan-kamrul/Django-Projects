@@ -10,7 +10,7 @@ The projects aim to scrap the given website's all kind of links. You can enter t
 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.**
 
-Live Link : https://scrapper-latest-vh6w.onrender.com/
+### Live Link : https://scrapper-latest-vh6w.onrender.com/
 
 # Project 2 : Expense Tracker With Django and TailwindCSS
 The projects aim to keep track all kinds of personal expense. User can input all of his/her expenses in the app. The app will show the list of expenses, categories of expenses and will also visualize the expenses with colorful charts.
@@ -23,7 +23,7 @@ The projects aim to keep track all kinds of personal expense. User can input all
 -I have tried to use all the basic Django instruments here. 
 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.** \
-Live Link: https://expense-tracker-latest-bsea.onrender.com/
+### Live Link: https://expense-tracker-latest-bsea.onrender.com/
 
 
 # Project 3 : CV Generator with Django 
