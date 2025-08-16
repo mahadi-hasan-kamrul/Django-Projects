@@ -46,9 +46,9 @@ In this project, I have tried to initiate a chatbot using Chatterbot and Chatter
 -**Chatterbot & Chatterbot-Corpus** is used to here to power the ChatBot
 
 # Project 5: Ecommerce Project with Django 
-** This project fully showcases one demo ecommerce site with every kinds of attributes that an ecommerce site should have. **
+### **This project fully showcases one demo ecommerce site with every kinds of attributes that an ecommerce site should have.**
 
-Properties: \
+Properties: 
 - Implementation of Every Django tools 
 - Usage of Django Authentication  
 - Usage of Model Forms in an efficient way 
