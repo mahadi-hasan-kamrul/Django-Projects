@@ -10,7 +10,7 @@ The projects aim to scrap the given website's all kind of links. You can enter t
 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.**
 
-### Live Link : https://scrapper-latest-vh6w.onrender.com/
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Django-Projects/tree/Django-Project-Website-Scrapper
 
 # Project 2 : Expense Tracker With Django and TailwindCSS
 The projects aim to keep track all kinds of personal expense. User can input all of his/her expenses in the app. The app will show the list of expenses, categories of expenses and will also visualize the expenses with colorful charts.
@@ -23,7 +23,7 @@ The projects aim to keep track all kinds of personal expense. User can input all
 -I have tried to use all the basic Django instruments here. 
 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.** \
-### Live Link: https://expense-tracker-latest-bsea.onrender.com/
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Django-Projects/tree/Django-Projects-Expense-Tracker
 
 
 # Project 3 : CV Generator with Django 
@@ -36,7 +36,7 @@ In this project, the user can entry all kinds of information and afterthat a CV 
 **The DOCKER image of this project is custom coded with the collboration of DeepSeek AI. WKHTMLTOPDF does not go along with Docker because of a lot of dependencies failure.** 
 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.** 
-### Live Link: https://cvgene-latest.onrender.com/
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Django-Projects/tree/Django-Projects-CV-Generator
 
 # Project 4 : Basic ChatBot with ChatterBot with Django 
 In this project, I have tried to initiate a chatbot using Chatterbot and Chatterbot-Corpus library. It is not an advanced chatbot. Because the library is not that enriched.
@@ -44,6 +44,8 @@ In this project, I have tried to initiate a chatbot using Chatterbot and Chatter
 -Install the requirements.txt file. \
 -The project is well commented to make it easily understandable. \
 -**Chatterbot & Chatterbot-Corpus** is used to here to power the ChatBot
+
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Django-Projects/tree/Django-Project-Basic-Chatbot-with-ChatterBot
 
 # Project 5: Ecommerce Project with Django 
 ### **This project fully showcases one demo ecommerce site with every kinds of attributes that an ecommerce site should have.**
@@ -65,7 +67,10 @@ Properties:
 - CRUD Methods Implementation 
 
 **The project is then containerized with Docker. Then the image of the container was pushed into Github. And with Render deployment it was made live.** 
-### Live Link: https://ecom-app-latest.onrender.com 
-**Another instance of this project is deployed with AWS Elastic Beanstalk.** 
-### Live Link: https://mahadipros.com 
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Django-Projects/tree/Django-Project-Ecommerce 
+
+# Project 5: Macro Nutrient Calculator
+### **This project showcases an app which a user can use to calculate the macro nutrient of daily foods. The user has to register the foods by himself from admin panel**
+
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Django-Projects/tree/Django-Projects-Macro-Nutrition-Calculator
 
